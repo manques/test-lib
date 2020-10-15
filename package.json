@@ -1,0 +1,19 @@
+{
+  "name": "header",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^10.1.6",
+    "@angular/core": "^10.1.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "main": "bundles/header.umd.js",
+  "module": "fesm2015/header.js",
+  "es2015": "fesm2015/header.js",
+  "esm2015": "esm2015/header.js",
+  "fesm2015": "fesm2015/header.js",
+  "typings": "header.d.ts",
+  "metadata": "header.metadata.json",
+  "sideEffects": false
+}
